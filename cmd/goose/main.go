@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pressly/goose"
+	"github.com/cloudwan/goose"
 
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/lib/pq"
